@@ -1,4 +1,4 @@
-# Head
+# Data Science Project
 
 ## Task 1: Analyze a COVID-19 Dataset
 `Explanation:`
@@ -11,14 +11,14 @@
 Goal: Learn data loading, cleaning, and visualization.
 
 ## Task 2: Titanic Survival Prediction (ML Basics)
-Explanation:
+`Explanation:`
 - Use the famous Titanic Dataset from Kaggle
 - Use Logistic Regression to predict if a passenger survived or not
 - Perform data cleaning, feature selection, model training
 Tools: Pandas, Scikit-learn, Matplotlib
 
 ## Task 3: Create a Correlation Heatmap
-Explanation:
+`Explanation:`
 - Take any dataset (e.g., student scores, sales data)
 - Show correlation between variables using Seaborn's heatmap
 Goal: Understand relationships between variables visually.
