@@ -17,8 +17,15 @@
 - Perform data cleaning, feature selection, model training
 `Tools:` Pandas, Scikit-learn, Matplotlib
 
-## Task 3: Create a Correlation Heatmap
+
+## Task 3 : Salary Prediction Model
+`Explanation:`
+- Create a dataset or use one from Kaggle (e.g., based on job title, experience, etc.)
+- Predict salary using Linear Regression
+- Evaluate model accuracy with Mean Squared Error
+
+## Task 6: Create a Correlation Heatmap
 `Explanation:`
 - Take any dataset (e.g., student scores, sales data)
 - Show correlation between variables using Seaborn's heatmap
-`Goal:` Understand relationships between variables visually.
+`Goal`: Understand relationships between variables visually.
